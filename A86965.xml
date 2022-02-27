@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speedy post from heaven, to the King of England. Never put out by any before. VVritten by A.H.</title>
+            <author>A. H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86965</idno>
+            <idno type="STC">Wing H4</idno>
+            <idno type="STC">Thomason E121_6</idno>
+            <idno type="STC">ESTC R20495</idno>
+            <idno type="EEBO-CITATION">99864397</idno>
+            <idno type="PROQUEST">99864397</idno>
+            <idno type="VID">116625</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116625)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speedy post from heaven, to the King of England. Never put out by any before. VVritten by A.H.</title>
+                  <author>A. H.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeare. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Octob: 5. ".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116625:1"/>
+            <pb facs="tcp:116625:1" rendition="simple:additions"/>
+            <p>A SPEEDY POST FROM HEAVEN, TO THE KING OF ENGLAND.</p>
+            <p>Never put out by any before.</p>
+            <p>VVritten by <hi>A. H.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the yeare. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116625:2"/>
+            <pb n="1" facs="tcp:116625:2"/>
+            <head>A Speedy Poſt from Heaven, to the King of <hi>England.</hi>
+            </head>
+            <p>THat he fight not againſt the Goſ<g ref="char:EOLhyphen"/>pell and the truth of Gods word, and thoſe his loving ſubiects that will defend his regall perſon, Crowne and dignite, and ſeale it with their bloud: leaſt it happen to him as to former Kings of <hi>Iſrael</hi> and <hi>Judah.</hi> Read the twentie one of <hi>Ezekel</hi> the 25. 26. 27. <hi>And thou prophane wicked Prince of Iſrael whoſe day is come when iniquity ſhall have an end.</hi>
+            </p>
+            <p>Thus ſaith the Lord, <hi>remove the Diadem and take off the Crowne this ſhall not be the ſame, exalt him that is low, and abaſe him that is high.</hi>
+            </p>
+            <pb n="2" facs="tcp:116625:3"/>
+            <p>I will Overturne overturne it, and it ſhall be no more untill he come, whoſe right is, and it will give it him, Read <hi>Iſaiah</hi> the 14. and the 4. verſe that thou ſhalt take up this Proverbe againſt the King of <hi>Babilon</hi> And ſay <hi>how hath the oppreſſor ceaſed the Golden Citie ceaſed, 5. the Lord hath broken the ſtaffe of the wicked, and the Scepter of the Rullers he who ſmote the people in wrath</hi>
+               <note place="margin">vers 6.</note> 
+               <hi>with a continuall ſtroke, he that ruled the na<g ref="char:EOLhyphen"/>tions in anger 16. perſecuted and none hin<g ref="char:EOLhyphen"/>dereth.</hi>
+            </p>
+            <p>
+               <hi>Thou ſhalt not be Joyned with them in</hi>
+               <note place="margin">20. 21.</note> 
+               <hi>buriall becauſe thou haſt destroyed thy land and ſlaine thy people, the ſeede of evill doers ſhall never be removed, prepare ſlaughter for his Children, for the iniquitie of his fa<g ref="char:EOLhyphen"/>ther that he do not riſe nor poſſeſſe the land nor fill the face of the world with Cities.</hi>
+            </p>
+            <p>
+               <hi>The iudgment of God upon three Kings</hi>
+               <note place="margin">Ier. 22.</note>
+               <pb n="3" facs="tcp:116625:3"/> 
+               <hi>Shallum of Iehoiakim and Coniah for opreſ<g ref="char:EOLhyphen"/>ing of their ſubiects and breaking their Co<g ref="char:EOLhyphen"/>venant with God.</hi>
+            </p>
+            <p>
+               <hi>Ahab being left to the Councell of his</hi>
+               <note place="margin">1. Kings 21.</note> 
+               <hi>wicked Wife loſt his Kingdome and his pos<g ref="char:EOLhyphen"/>terity after him.</hi>
+            </p>
+            <p>
+               <hi>You may read the iudgment of God,</hi>
+               <note place="margin">2. Kings 1. 1.</note> 
+               <hi>through wicked Counſell vpon Ahaziah.</hi>
+            </p>
+            <p>
+               <hi>O King add not thou to this number of wicked Councell,</hi> but add to the number of thoſe good Kings who by giveing eare to Good Councell, preſerved thier Kingdome longe to them ſelves, And theire poſterytie, as <hi>King David</hi> in the<note place="margin">2. Sam 18. 4.</note> firſt place that he was ſoe far from ſeek<g ref="char:EOLhyphen"/>ing his owne Councell that he ſaid to his people, what ſeemeth to you beſt I will do, and who is beſt for the but the high Court of Parliament, there was but two in Davids Charge, but thou O <hi>King</hi> haſt three in thy charge that thou
+<pb n="4" facs="tcp:116625:4"/> haſt not onely neglected to ſettle the peace of them, but thou haſt by all means laboured the utter diſtruction of them with the firſt, the hoſtile manner againſt Scotland, and the bleeding con<g ref="char:EOLhyphen"/>dition of <hi>Ireland,</hi> and as for <hi>England</hi> my pen ſhakes to write the Condition of it, not knowing what will befall it, haveing begun, not how to end, ſeing thy ſelfe o <hi>King,</hi> And thy poſterytie be<g ref="char:EOLhyphen"/>ing compaſt about with thine enemies, and ſo little regarding thy freinds, which is the great court of Parliament, O KING returne to it and forſake theſe wicked counſell of all <hi>Achitophels</hi> which ſeeking nothing more, the aboliſhing of the Goſpell and the beſt of thy Sub<g ref="char:EOLhyphen"/>iects, whoſe names here followeth, <hi>Lord Kimboulton Maiſter Stroud, Mr. Martin, Sir Henry Ludlow, Mr. Hollis, Mr. Pim, Mr. Hamden,</hi> Sir <hi>Arthur Haſſlridg, Alderman Penington, Captaine Venn,
+<pb n="5" facs="tcp:116625:4"/> the Earle of Warwicke, the Earle of Eſſex, the Earle of Stamford the</hi> Lord <hi>Brooke</hi> Sir <hi>Iohn Hotham, theſe are</hi> like Davids worthies and mightie men that brake through the hoſts of the <hi>Philiſtims</hi> to fetch water for <hi>David</hi> in his necesſitie, but <hi>David</hi> would not drinke the bloud of theſe men, then doe not the o King drinke the bloud of theſe<note place="margin">2 Sam. 23.</note> men, which ſeekes to preſerve thy Kingdome for thee and thy poſterytie, from theſe wicked ſonnes of <hi>Belivl</hi> that are thy councellors againſt all right and law of God, of nature and of the kingdome, and this power and order hath equitie and truth in their mouth and the two edged ſword in their hand<note place="margin">Pſa. 149. 6. 7. 8. 9.</note> to execute vengance upon the heathen and puniſhment upon the phople, to bind their Kings with Chenes, and and their Nobles with fetters of Iron, to execute upon them the Iudgment written.</p>
+            <pb n="6" facs="tcp:116625:5"/>
+            <p>In this Pſalme what became of all them that the holy Ghoſt ſets downe<note place="margin">63. Pſal.</note> ſuch prayers and deſires to light upon them, that goe againſt any truth of God, and divers other places of Scripture, which might be aledged for this pur<g ref="char:EOLhyphen"/>poſe.</p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:116625:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
